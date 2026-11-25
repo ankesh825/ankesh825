@@ -104,44 +104,52 @@ Team Member — INNOVEXA × Surreal Treasures
 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">🌦️ WeatherGPT
-
-AI-powered weather forecasting and advisory platform.
-
-- Python
-- FastAPI
-- JavaScript
-- AI Integration
-
-🔗 "View Code" (https://github.com/ankesh825/SIH_26068_WEATHERGPT)
-
-</td>
-<td width="50%" valign="top">🇮🇳 BharatGuru
-
-Interactive India travel and cultural showcase.
-
-- HTML5
-- CSS3
-- JavaScript
-
-🔗 "View Code" (https://github.com/ankesh825)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">📊 COVID-19 Data Analysis
-
-Python-based data analysis and visualization project.
-
-- Python
-- Pandas
-- Data Analysis
-
-🔗 "View Code" (https://github.com/ankesh825)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><em>🌦️ WeatherGPT</em></strong></p>
+      <p><em>AI-powered weather forecasting and advisory platform.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-Integration-6A5ACD?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ankesh825/SIH_26068_WEATHERGPT"><strong><em>🔗 View Code</em></strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><em>🇮🇳 BharatGuru</em></strong></p>
+      <p><em>Interactive India travel and cultural showcase.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p><a href="https://github.com/ankesh825"><strong><em>🔗 View Code</em></strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><em>📊 COVID-19 Data Analysis</em></strong></p>
+      <p><em>Python-based data analysis and visualization project.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Analysis-2E8B57?style=flat-square" />
+      </p>
+      <p><a href="https://github.com/ankesh825/COVID_19_DATA_ANALYSIS"><strong><em>🔗 View Code</em></strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><em>🌿 INNOVEXA × Surreal Treasures</em></strong></p>
+      <p><em>Interactive 3D web experience with immersive visuals and modern design.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p><a href="https://github.com/ankesh825/INNOVEXA-SURREAL"><strong><em>🔗 View Code</em></strong></a></p>
+    </td>
+  </tr>
 </table>
 
 ---
