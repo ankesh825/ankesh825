@@ -14,6 +14,43 @@ I’m interested in software development, Artificial Intelligence, Data Science,
 - 🚀 Interested in projects, research and open-source collaboration
 
 ---
+<!-- Top Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=607d8b&height=140&section=header&text=Ankesh%20Diwakar&fontSize=42&fontColor=ffffff&desc=Integrated%20MCA%20Student%20%7C%20IIPS%2C%20DAVV%20%7C%20Aspiring%20Software%20Developer&descAlignY=75&descSize=15" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4B5563&center=true&vCenter=true&width=620&lines=Integrated+MCA+Student+%40+IIPS%2C+DAVV%2C+Indore;Interested+in+Software+Development%2C+AI+%26+Data+Science;Building+Practical+Technology+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-black?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ankesh825&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+### 👨🏻‍💻 Who I Am
+
+I'm an Integrated MCA student at the **International Institute of Professional Studies (IIPS), DAVV, Indore**. I’m interested in software development, Artificial Intelligence, Data Science, and building practical technology solutions. I enjoy learning new technologies, collaborating with teams, and turning ideas into meaningful projects.
+
+<table>
+  <tr>
+    <td width="55%">
+
+```javascript
+const ankeshDiwakar = {
+  education: "Integrated MCA @ IIPS, DAVV (2025–2030)",
+  interests: ["Software Development", "Artificial Intelligence", "Data Science"],
+  languages: ["C", "C++", "Python", "JavaScript"],
+  development: ["HTML", "CSS", "React", "FastAPI", "MERN Stack"],
+  toolsAndDB: ["MySQL", "Git", "GitHub", "VS Code"],
+  projects: ["BharatGuru", "WeatherGPT", "COVID-19 Data Analysis"],
+  openTo: "Projects, research & open-source collaboration"
+};
 
 🎓 Education
 
