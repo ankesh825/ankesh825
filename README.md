@@ -101,23 +101,48 @@ Team Member — INNOVEXA × Surreal Treasures
 
 ---
 
-🚀 Projects
+🚀 Featured Projects
 
-1. BharatGuru — Interactive India Travel Showcase
+<table>
+<tr>
+<td width="50%" valign="top">🌦️ WeatherGPT
 
-- Developed an interactive web application showcasing Indian tourism and cultural landmarks.
-- Used HTML5, CSS3 and JavaScript.
-- Implemented structured navigation, visual layouts and external search functionality.
+AI-powered weather forecasting and advisory platform.
 
-2. WeatherGPT — Smart Weather & Advisory Platform
+- Python
+- FastAPI
+- JavaScript
+- AI Integration
 
-- Exploring weather information and AI-powered advisory features.
-- Working with Python, FastAPI and web technologies.
+🔗 "View Code" (https://github.com/ankesh825/SIH_26068_WEATHERGPT)
 
-3. COVID-19 Data Analysis
+</td>
+<td width="50%" valign="top">🇮🇳 BharatGuru
 
-- Python-based data analysis project.
-- Exploring datasets and data-driven insights.
+Interactive India travel and cultural showcase.
+
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 "View Code" (https://github.com/ankesh825)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">📊 COVID-19 Data Analysis
+
+Python-based data analysis and visualization project.
+
+- Python
+- Pandas
+- Data Analysis
+
+🔗 "View Code" (https://github.com/ankesh825)
+
+</td>
+</tr>
+</table>
 
 ---
 
